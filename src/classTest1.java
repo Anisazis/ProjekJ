@@ -17,6 +17,7 @@ public class classTest1 {
             System.out.print("This is if statement");
         }else {
             System.out.print("This is else statement");
+            System.out.print("bye");
+        }
         }
     }
-}
